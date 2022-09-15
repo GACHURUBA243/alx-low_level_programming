@@ -15,9 +15,12 @@ i = 0;
 /*
 *while (i < 10)
 *{
+*putcher(i);
+*}
 */
 printf("infinite loop avoided !\\o / \n");
 
 return (0);
 }
+
 
