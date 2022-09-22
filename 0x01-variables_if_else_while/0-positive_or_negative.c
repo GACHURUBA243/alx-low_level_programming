@@ -11,8 +11,8 @@
 int main(void)
 {
 	int n;
-	sr and(time(0));
-	n = r and() - RAND_MAX / 2;
+	srand(time(0));
+	n = rand() - RAND_MAX / 2;
 
 	if (n>0)
 	{
